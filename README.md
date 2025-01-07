@@ -52,4 +52,4 @@ For questions or problems, please feel free to write an email and I will get bac
 .
 
 ## License
-* This repository is licensed under the [MIT license](https://github.com/masohn/IFV/blob/main/LICENSE).
+* This repository is licensed under the [MIT license](https://github.com/masohn/DRP/blob/main/LICENSE).
