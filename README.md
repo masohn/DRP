@@ -7,6 +7,7 @@ with a CLIP-Inspired Transformer Framework Exploration
 * [Requirements](#requirements)
 * [Usage](#usage)
 * [Contact](#contact)
+* [License](#license)
 
 ## Requirements
 
@@ -40,7 +41,7 @@ An detailed explanation of additional required files is provided in the respecti
 Most of the required data sets are already available in the `data` folder, but some files have to be downloaded manually 
 as they are too large.
 
-The `model` folder contains three pre-trained models that can be used in the Jupyter notebooks.
+The `model` folder only contains one pre-trained model as GitHub does not allow files larger than 25MB.
 
 
 ## Contact
@@ -50,3 +51,5 @@ For questions or problems, please feel free to write an email and I will get bac
 [msohn@techfak.uni-bielefeld.de](mailto:msohn@techfak.uni-bielefeld.de)
 .
 
+## License
+* This repository is licensed under the [MIT license](https://github.com/masohn/IFV/blob/main/LICENSE).
