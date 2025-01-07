@@ -1,0 +1,12 @@
+matplotlib==3.8.0
+numpy==1.24.3
+pandas==1.5.3
+PubChemPy==1.0.4
+python_Levenshtein==0.26.1
+scikit_learn==1.2.2
+scipy==1.11.4
+SmilesPE==0.0.3
+torch==2.3.0
+torchtext==0.18.0
+tqdm==4.65.0
+torchmetrics==1.6.1
