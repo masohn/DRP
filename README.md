@@ -39,7 +39,7 @@ Below is the suggested order in which the Jupyter Notebooks files should be exec
 An detailed explanation of additional required files is provided in the respective Jupyter Notebooks.
 
 Most of the required data sets are already available in the `data` folder, but some files have to be downloaded manually 
-as they are too large.
+as they are too large. The missing files can also be downloaded via [Google Drive](https://drive.google.com/drive/folders/114uhpWGNqdOHqL5OGqHRruhUhJh2eXLm?usp=sharing).
 
 The `model` folder only contains one pre-trained model as GitHub does not allow files larger than 25MB.
 
